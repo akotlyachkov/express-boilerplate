@@ -1,0 +1,25 @@
+{
+  "name": "express-boilerplate",
+  "version": "0.0.1",
+  "description": "empty express html5 project template",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akotlyachkov/express-boilerplate.git"
+  },
+  "keywords": [
+    "express.js",
+    "boilerplate",
+    "node.js",
+    "html5"
+  ],
+  "author": "akotlyachkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akotlyachkov/express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/akotlyachkov/express-boilerplate#readme"
+}
