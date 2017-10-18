@@ -15,7 +15,7 @@ app.get('/login', function (req, res, next) {
     res.render('login');
 });
 app.get('/', function (req, res, next) {
-    throw new Error("херовина");
+    //throw new Error("херовина");
     res.render('index');
 });
 
